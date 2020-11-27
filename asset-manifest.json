@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/test-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/test-app/static/js/main.345ff8ca.chunk.js",
-    "main.js.map": "/test-app/static/js/main.345ff8ca.chunk.js.map",
-    "runtime-main.js": "/test-app/static/js/runtime-main.8cbec855.js",
-    "runtime-main.js.map": "/test-app/static/js/runtime-main.8cbec855.js.map",
-    "static/js/2.fdb90228.chunk.js": "/test-app/static/js/2.fdb90228.chunk.js",
-    "static/js/2.fdb90228.chunk.js.map": "/test-app/static/js/2.fdb90228.chunk.js.map",
-    "static/js/3.b0d268a8.chunk.js": "/test-app/static/js/3.b0d268a8.chunk.js",
-    "static/js/3.b0d268a8.chunk.js.map": "/test-app/static/js/3.b0d268a8.chunk.js.map",
-    "index.html": "/test-app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/test-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.fdb90228.chunk.js.LICENSE.txt": "/test-app/static/js/2.fdb90228.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/test-app/static/media/logo.6ce24c58.svg",
-    "static/media/me.e8d29855.jpg": "/test-app/static/media/me.e8d29855.jpg"
+    "main.css": "/test-app2/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/test-app2/static/js/main.345ff8ca.chunk.js",
+    "main.js.map": "/test-app2/static/js/main.345ff8ca.chunk.js.map",
+    "runtime-main.js": "/test-app2/static/js/runtime-main.8f305c54.js",
+    "runtime-main.js.map": "/test-app2/static/js/runtime-main.8f305c54.js.map",
+    "static/js/2.fdb90228.chunk.js": "/test-app2/static/js/2.fdb90228.chunk.js",
+    "static/js/2.fdb90228.chunk.js.map": "/test-app2/static/js/2.fdb90228.chunk.js.map",
+    "static/js/3.b0d268a8.chunk.js": "/test-app2/static/js/3.b0d268a8.chunk.js",
+    "static/js/3.b0d268a8.chunk.js.map": "/test-app2/static/js/3.b0d268a8.chunk.js.map",
+    "index.html": "/test-app2/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/test-app2/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fdb90228.chunk.js.LICENSE.txt": "/test-app2/static/js/2.fdb90228.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/test-app2/static/media/logo.6ce24c58.svg",
+    "static/media/me.e8d29855.jpg": "/test-app2/static/media/me.e8d29855.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cbec855.js",
+    "static/js/runtime-main.8f305c54.js",
     "static/js/2.fdb90228.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.345ff8ca.chunk.js"
